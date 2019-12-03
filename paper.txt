@@ -32,8 +32,8 @@ RL-Glue：提供了一个能将强化学习代理、环境和实验程序连接�
 地址：https://www.udemy.com/deep-reinforcement-learning-in-python/
 原文地址在此：https://blog.algorithmia.com/introduction-to-reinforcement-learning/
 
-
-
+各种强化学习算法的对比
+https://www.jianshu.com/p/3669007cd512
 
 
 
