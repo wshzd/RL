@@ -1,4 +1,10 @@
 强化学习资料
 https://oneraynyday.github.io/page2/
 
+tensorflow在强化学习算法的实现
+https://github.com/reinforceio/tensorforce
+
+
+
+
 
