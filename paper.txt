@@ -4,6 +4,36 @@ https://oneraynyday.github.io/page2/
 tensorflow在强化学习算法的实现
 https://github.com/reinforceio/tensorforce
 
+RL-Glue：提供了一个能将强化学习代理、环境和实验程序连接起来的标准界面，且可进行跨语言编程。
+地址：http://glue.rl-community.org/wiki/Main_Page
+
+用通用强化学习算法自我对弈来掌握国际象棋和将棋
+题目：Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
+地址：https://arxiv.org/abs/1712.01815
+
+深化强化学习综述
+题目：Deep Reinforcement Learning: An Overview
+地址：https://arxiv.org/abs/1701.07274
+
+用深度强化学习实现人类水平的控制
+题目：Human-Level Control Through Deep Reinforcement Learning
+地址：https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf
+
+强化学习（Georgia Tech, CS 8803）
+地址：https://www.udacity.com/course/reinforcement-learning—ud600
+
+强化学习（Stanford, CS234）
+地址：http://web.stanford.edu/class/cs234/index.html
+
+深度强化学习（Berkeley, CS 294, Fall 2017）
+地址：http://rll.berkeley.edu/deeprlcourse/
+
+用Python玩转深度强化学习（Udemy高级教程）
+地址：https://www.udemy.com/deep-reinforcement-learning-in-python/
+原文地址在此：https://blog.algorithmia.com/introduction-to-reinforcement-learning/
+
+
+
 
 
 
