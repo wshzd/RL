@@ -42,7 +42,8 @@ https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/zhang.pdf
 强化学习在NLP的应用
 https://www.zhihu.com/question/47548097
 
-
+深度强化学习实验室github地址
+https://github.com/NeuronDance/DeepRL
 
 
 
