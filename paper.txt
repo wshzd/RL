@@ -45,7 +45,7 @@ https://www.zhihu.com/question/47548097
 深度强化学习实验室github地址
 https://github.com/NeuronDance/DeepRL
 
-
-
-
+基于蒙特卡罗方法的强化学习
+https://blog.csdn.net/LagrangeSK/article/details/81182605
+https://www.cnblogs.com/pinard/p/9492980.html
 
