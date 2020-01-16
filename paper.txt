@@ -53,8 +53,8 @@ https://blog.csdn.net/liweibin1994/article/details/79111536
 SARSA算法（l刘建平）
 https://www.cnblogs.com/pinard/p/9614290.html
 
-
-
+策略梯度的详细介绍以及公式推导
+https://www.jianshu.com/p/3ea873a7c4ac
 
 
 
