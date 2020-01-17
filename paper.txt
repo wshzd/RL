@@ -61,7 +61,7 @@ https://blog.csdn.net/liweibin1994/article/details/79348000
 https://zhuanlan.zhihu.com/p/28348110
 https://www.bilibili.com/video/av24724071   李宏毅老师视频讲解 https://blog.csdn.net/qq_36829091/article/details/83213707
 
-
-
+Policy Gradient Algorithms
+https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
 
 
