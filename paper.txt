@@ -64,4 +64,5 @@ https://www.bilibili.com/video/av24724071   李宏毅老师视频讲解 https://
 Policy Gradient Algorithms
 https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
 
-
+Rainbow:整合DQN六种改进的深度强化学习方法！
+https://github.com/princewen/tensorflow_practice/tree/master/RL/Basic-Rainbow-Net
