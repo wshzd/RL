@@ -66,3 +66,15 @@ https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
 
 Rainbow:整合DQN六种改进的深度强化学习方法！
 https://github.com/princewen/tensorflow_practice/tree/master/RL/Basic-Rainbow-Net
+
+强化学习框架tensorlayer
+https://github.com/tensorlayer/tensorlayer
+https://tensorlayer.readthedocs.io/en/latest/index.html
+
+
+
+
+
+
+
+
