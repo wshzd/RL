@@ -71,8 +71,8 @@ https://github.com/princewen/tensorflow_practice/tree/master/RL/Basic-Rainbow-Ne
 https://github.com/tensorlayer/tensorlayer
 https://tensorlayer.readthedocs.io/en/latest/index.html
 
-
-
+强化学习实现代码
+https://github.com/Teacher-Guo/RL_code
 
 
 
