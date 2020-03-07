@@ -74,7 +74,13 @@ https://tensorlayer.readthedocs.io/en/latest/index.html
 强化学习实现代码
 https://github.com/Teacher-Guo/RL_code
 
+《Reinforcement Learning : An Introduction》
+课程主页：http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
 
-
+书籍主页：http://incompleteideas.net/book/the-book-2nd.html
+原书pdf地址: http://incompleteideas.net/book/RLbook2018.pdf
+代码地址: http://incompleteideas.net/book/code/code2nd.html
+课后习题：https://pan.baidu.com/s/14NcCbshyHlWA0YyuEEPPqw
+David sliver中文字幕视频：https://www.bilibili.com/video/av32149008?p=1
 
 
