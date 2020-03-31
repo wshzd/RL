@@ -85,8 +85,8 @@ David sliver中文字幕视频：https://www.bilibili.com/video/av32149008?p=1
 
 https://github.com/Dekki-Aero/DDPG
 
-
-
+清华大学强化学习开源框架-天授
+https://github.com/thu-ml/tianshou
 
 
 
