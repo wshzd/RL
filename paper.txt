@@ -88,6 +88,13 @@ https://github.com/Dekki-Aero/DDPG
 清华大学强化学习开源框架-天授
 https://github.com/thu-ml/tianshou
 
+《强化学习导论（第二版）》
+http://www.incompleteideas.net/book/the-book.html
+https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+https://www.ualberta.ca/science/about-us/contact-us/faculty-directory/rich-sutton
+http://www-all.cs.umass.edu/~barto/
+
+
 
 
 
