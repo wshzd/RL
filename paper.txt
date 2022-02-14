@@ -94,6 +94,11 @@ https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 https://www.ualberta.ca/science/about-us/contact-us/faculty-directory/rich-sutton
 http://www-all.cs.umass.edu/~barto/
 
+Gym发布 8 年后，迎来第一个完整的环境文档：https://www.gymlibrary.ml/
+
+
+
+
 
 
 
